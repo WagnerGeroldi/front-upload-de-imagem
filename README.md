@@ -1,7 +1,9 @@
 # front-upload-de-imagem
 
 
-Front desenvolvido em REACT para enviar imagens para backend e salvar no banco de dados!!
+Front extremamente básico!!!!
+
+Desenvolvido em REACT para testar o envio de imagens para backend e salvar no banco de dados!!
 
 
 ![vvvv](https://user-images.githubusercontent.com/74829196/184974550-bea0a30c-53ac-48f7-b7d9-1529e5ace0b4.gif)
